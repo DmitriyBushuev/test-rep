@@ -1,2 +1,2 @@
 print("Hello world!!");
-printf("Hello,Dima");долроипамавсвчыяф
+printf("Hello,Dima");
