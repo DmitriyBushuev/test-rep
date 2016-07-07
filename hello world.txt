@@ -1,2 +1,4 @@
 print("Hello world!!");
 printf("Hello,Dima");
+нкиевамчвя 
+иапвм
